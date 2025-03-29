@@ -1,6 +1,7 @@
-KaliTermux
-Info
-Install Kali Linux on Android using Termux!
+### KALI LINUX V2
+
+ Info
+   Install Kali Linux on Android using Termux!
 
 The script was originally developed by EXALAB for AnLinux project.
 This version of script is slightly modified.
@@ -11,6 +12,7 @@ Improved output
 Some improvements in code
 How to use
 Simply copy and paste this code to Termux command line to install Kali Linux:
-pkg install wget proot -y && wget https://raw.githubusercontent.com/MasterDevX/KaliTermux/master/InstallKali.sh && bash InstallKali.sh
 
-After installing run ./start-kali.sh to launch Kali.
+              pkg install wget proot -y && wget https://raw.githubusercontent.com/sathanicc/KALI-LINIX-FOR-TERMUX-V2/refs/heads/main/InstallKali.sh && bash InstallKali.sh
+
+After installing run [ ./start-kali.sh  ]to launch Kali.
